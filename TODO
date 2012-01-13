@@ -1,0 +1,22 @@
+CacheDriver (instead of inheritance)
+	PdoCacheDriver
+
+Streams?
+
+Better name than lackey?
+
+namespaces in class and test files
+
+pass io.writer to Logger.new()?
+see http://golang.org/pkg/log/
+
+move Cache to a separate lib?
+
+Bootstrapper class?
+	pre-logging
+	env config
+	class loading
+	config?
+
+io-lib: read json, yaml, csv, xml, etc.
+for reading config files
